@@ -1,0 +1,8 @@
+body {
+  font-family: monospace;
+}
+
+#profile-picture {
+  width: 120px;
+  border-radius: 10px;
+}
